@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <text>
+        <tspan x="4.689" y="12" fill="rgb(80,89,98)" font-family="inherit" font-size="11" font-weight="700" style="white-space:pre;text-transform:none">23,456</tspan>
+    </text>
+    <path fill="none" stroke="rgb(40,167,69)" stroke-width="2" d="M3 33l.91651167.40733852C8.82241614 35.58774051 14.55512153 34.64142628 18.5 31l1.16002103-1.07078864C22.87385976 26.96259099 27.58800861 26.2940043 31.5 28.25h0c3.63805787 1.81902893 8.06340793.45820012 10.05078863-3.09069398L45 19"/>
+</svg>

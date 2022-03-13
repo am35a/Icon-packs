@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <path fill="rgb(80,89,98)" d="M23 43V1h2v42h22v2H25v2h-2v-2H1v-2h22z"/>
+    <path fill="rgb(40,167,69)" d="M14 16h20c1.10383005 0 2 .89616995 2 2v8c0 1.10383005-.89616995 2-2 2H14c-1.10383005 0-2-.89616995-2-2v-8c0-1.10383005.89616995-2 2-2z"/>
+    <text>
+        <tspan x="33.532" y="6" fill="rgb(80,89,98)" font-family="inherit" font-size="6" font-weight="700" style="white-space:pre;text-transform:none">100</tspan>
+    </text>
+    <text>
+        <tspan x="37.222" y="23.5" fill="rgb(80,89,98)" font-family="inherit" font-size="6" font-weight="700" style="white-space:pre;text-transform:none">50</tspan>
+    </text>
+    <text>
+        <tspan x="41.104" y="42" fill="rgb(80,89,98)" font-family="inherit" font-size="6" font-weight="700" style="white-space:pre;text-transform:none">0</tspan>
+    </text>
+</svg>

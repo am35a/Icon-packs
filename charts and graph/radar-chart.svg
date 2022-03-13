@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+    <path fill="rgb(255,163,0)" fill-rule="evenodd" d="M29 19v13.125L8 40l6-26 15 5z"/>
+    <path fill="rgb(40,167,69)" fill-rule="evenodd" d="M40 8l-28 4 4 20 21 5 3-29z"/>
+    <ellipse fill="none" stroke="rgb(80,89,98)" opacity=".25" stroke-width="1" cx="24" cy="24" rx="23" ry="23"/>
+    <ellipse fill="none" stroke="rgb(80,89,98)" opacity=".25" stroke-width="1" cx="24" cy="24" rx="16" ry="16"/>
+    <ellipse fill="none" stroke="rgb(80,89,98)" opacity=".25" stroke-width="1" cx="24" cy="24" rx="8" ry="8"/>
+    <path fill="none" stroke="rgb(80,89,98)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M44 4L4 44"/>
+    <path fill="none" stroke="rgb(80,89,98)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M4 4l40 40"/>
+</svg>

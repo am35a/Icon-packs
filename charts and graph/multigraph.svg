@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <path fill="rgb(80,89,98)" d="M3 43V1h2v41l10-10 1 1L6 43h41v2H5v2H3v-2H1v-2h2z"/>
+    <path fill="rgb(40,167,69)" d="M12 12l4-2 4 2v26l-4 2-4-2V12z"/>
+    <path fill="rgb(255,255,255)" fill-opacity=".5" d="M12 12l4 2v26l-4-2V12z"/>
+    <path fill="rgb(255,163,0)" d="M24 6l4-2 4 2v32l-4 2-4-2V6z"/>
+    <path fill="rgb(255,255,255)" fill-opacity=".5" d="M24 6l4 2v32l-4-2V6z"/>
+    <path fill="rgb(220,53,69)" d="M36 18l4-2 4 2v20l-4 2-4-2V18z"/>
+    <path fill="rgb(255,255,255)" fill-opacity=".5" d="M36 18l4 2v20l-4-2V18z"/>
+</svg>
